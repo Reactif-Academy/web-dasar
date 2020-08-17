@@ -1,0 +1,45 @@
+# Project information
+site_name: Reactif Academy - Web Dasar
+site_url: https://reactif-academy.github.io/web-dasar/
+site_author: Team
+site_description: >-
+  Modul ini digunakan untuk membantu seseorang yang baru saja mulai mempelajari web development
+  Dalam modul ini terdapat topik antara lain html, css, js, dan php
+  Modul ini disusun bertahap dari materi dasar sampai dengan sedikit advance 
+
+# Repository
+repo_name: Reactif-Academy/web-dasar
+repo_url: https://github.com/Reactif-Academy/web-dasar
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2020 - Reactif Academy
+
+# Configuration
+theme:
+    name: null
+    custom_dir: material
+  
+    # 404 page
+    static_templates:
+      - 404.html
+  
+    # Don't include MkDocs' JavaScript
+    include_search_page: false
+    search_index_only: true
+  
+    # Default values, taken from mkdocs_theme.yml
+    language: en
+    features:
+      - tabs
+      #- instant
+    palette:
+      scheme: default
+      primary: indigo
+      accent: indigo
+    font:
+      text: Roboto
+      code: Roboto Mono
+    favicon: assets/favicon.png
+    icon:
+      logo: logo
