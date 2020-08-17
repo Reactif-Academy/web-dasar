@@ -13,7 +13,17 @@ repo_url: https://github.com/Reactif-Academy/web-dasar
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2020 - Reactif Academy Universitas Trunojoyo Madura
+copyright: Copyright &copy; 2020 - Reactif Academy
+
+# Nav
+nav:
+  - Home:
+    - Pengantar: index.md
+    - Tentang: about.md
+  - HTML:
+    - Installation: HTML/index.md
+  - CSS:  
+    - Installation: CSS/index.md
 
 # Configuration
 theme:
