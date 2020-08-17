@@ -1,5 +1,5 @@
 # About
-Repository ini dibuat untuk membantu teman - teman memahami fundamental dari web development mulai dari HTML, CSS, Javascript, sampai dengan PHP & MySQL
+Repository ini dibuat oleh tim Reactif Academy untuk membantu teman - teman memahami fundamental dari web development mulai dari HTML, CSS, Javascript, sampai dengan PHP & MySQL
 
 URL: https://reactif-academy.github.io/web-dasar/
 
@@ -16,4 +16,5 @@ URL: https://reactif-academy.github.io/web-dasar/
 3. Masuk ke direktori repo ini, dan jalankan `mkdocs serve`
 4. Lalu buka di browser kamu url berikut `http://localhost:8000/`
 5. Tiap perubahan akan direload otomatis oleh mkdocs (hot-reload)
+
 
