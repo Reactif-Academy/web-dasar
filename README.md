@@ -1,6 +1,6 @@
 # About
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Repository ini dibuat untuk membantu teman - teman memahami fundamental dari web development mulai dari HTML, CSS, Javascript, sampai dengan PHP & MySQL
 
@@ -32,6 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://telegram.me/iniakunhuda"><img src="https://avatars1.githubusercontent.com/u/22344814?v=4" width="100px;" alt=""/><br /><sub><b>Miftahul Huda</b></sub></a><br /><a href="https://github.com/Reactif-Academy/web-dasar/commits?author=iniakunhuda" title="Code">💻</a> <a href="https://github.com/Reactif-Academy/web-dasar/commits?author=iniakunhuda" title="Documentation">📖</a> <a href="#infra-iniakunhuda" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/muflihunaf"><img src="https://avatars0.githubusercontent.com/u/26353666?v=4" width="100px;" alt=""/><br /><sub><b>Muflihun Abdul Firmansyah</b></sub></a><br /><a href="https://github.com/Reactif-Academy/web-dasar/commits?author=muflihunaf" title="Code">💻</a></td>
   </tr>
 </table>
 
