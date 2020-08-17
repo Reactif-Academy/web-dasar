@@ -1,6 +1,6 @@
 # Tentang Kami
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Reactif Academy adalah lorem100
 
 ## Commands
 
